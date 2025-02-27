@@ -3,7 +3,9 @@
 This repo is just a collection of all the program that I wrote in C while learning the languages. I would list down and update all the programs time by time.
 
 **1. Calculator**
+
 [calculator](calculator/)
+
 This is a simple calculator program written in C. No GUI involved
 
 **2. Fast-Inverse**
