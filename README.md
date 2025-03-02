@@ -30,4 +30,8 @@ To compile, please run the code as below
 ```
 cc snake.c -o snake -lncurses
 
+**5. Hangman-Game**
 
+[hangman-game](hangman-game/)
+
+A hangman game made in bahasa melayu. Can be adjusted with abother set of vocabulary
